@@ -1,0 +1,11 @@
+F:\Projects\Lab 9\Lab 9\bin\Debug\Lab 9.exe.config
+F:\Projects\Lab 9\Lab 9\bin\Debug\Lab 9.exe
+F:\Projects\Lab 9\Lab 9\bin\Debug\Lab 9.pdb
+F:\Projects\Lab 9\Lab 9\bin\Debug\Lab 9.xml
+F:\Projects\Lab 9\Lab 9\obj\Debug\Lab_9.frmScores.resources
+F:\Projects\Lab 9\Lab 9\obj\Debug\Lab_9.Resources.resources
+F:\Projects\Lab 9\Lab 9\obj\Debug\Lab 9.vbproj.GenerateResource.Cache
+F:\Projects\Lab 9\Lab 9\obj\Debug\Lab 9.exe
+F:\Projects\Lab 9\Lab 9\obj\Debug\Lab 9.xml
+F:\Projects\Lab 9\Lab 9\obj\Debug\Lab 9.pdb
+F:\Projects\Lab 9\Lab 9\obj\Debug\Lab 9.vbprojResolveAssemblyReference.cache
